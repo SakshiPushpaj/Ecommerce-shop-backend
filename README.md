@@ -1,5 +1,5 @@
 ---
-title: Snay_Tau_shop_backend
+title: Ecommerce-shop-backend
 emoji: 📊
 colorFrom: purple
 colorTo: blue
